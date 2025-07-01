@@ -10,7 +10,7 @@ This also removes the 'UNA ' and 'UNA_' prefixes from items already in English, 
 
 This contains only (English) Language data, no changes to defs, behaviors, textures, etc.
 
-Translations done with a generator script and DeepL, and [I release my own contributions, along with the support code, to the public domain](https://github.com/cslaneyflett/zsbk.translations.unagi/LICENSE.txt).
+Translations done with a generator script and DeepL, and [I release my own contributions, along with the support code, to the public domain](https://github.com/cslaneyflett/zsbk.translations.unagi/blob/master/LICENSE.txt).
 
 Covers the following mods:
 - [UNAGI Another Duster Coat - unagi.a.d.coat](https://steamcommunity.com/sharedfiles/filedetails/?id=3253300748)
