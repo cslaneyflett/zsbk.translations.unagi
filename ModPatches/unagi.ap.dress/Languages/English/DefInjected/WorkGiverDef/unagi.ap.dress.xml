@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- For some reason the base data is in english, but is wrong (fabrication not tailoring work) -->
+  <DoBills_UNA_DressTailoringBench.label>make apparel</DoBills_UNA_DressTailoringBench.label>
+  <DoBills_UNA_DressTailoringBench.gerund>tailoring at</DoBills_UNA_DressTailoringBench.gerund>
+  <DoBills_UNA_DressTailoringBench.verb>tailor at</DoBills_UNA_DressTailoringBench.verb>
+</LanguageData>

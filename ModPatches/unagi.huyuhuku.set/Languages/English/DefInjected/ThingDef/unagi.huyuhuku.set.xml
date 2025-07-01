@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- JP - 冬の上着 -->
+  <!-- EN (DeepL) - winter coat -->
+  <UNAGIapaka.label>winter coat</UNAGIapaka.label>
+  <!-- JP - もふもふが付いたあたたかい上着。パーカーと同じ使い心地です。 -->
+  <!-- EN (DeepL) - A warm jacket with a fluffy lining. It feels just like a hoodie. -->
+  <UNAGIapaka.description>A warm jacket with a fluffy lining.\n\nIt has the same performance as a hoodie.</UNAGIapaka.description>
+  <!-- JP - 冬のケープ -->
+  <!-- EN (DeepL) - winter cape -->
+  <UNAGImohukepu.label>winter cape</UNAGImohukepu.label>
+  <!-- JP - もふもふが付いたあたたかいケープ。パーカーと同じ使い心地です。 -->
+  <!-- EN (DeepL) - A warm cape with fluffy trim. It feels just like a hoodie. -->
+  <UNAGImohukepu.description>A warm cape with fluffy trim.\n\nIt has the same performance as a hoodie.</UNAGImohukepu.description>
+  <!-- JP - もこもこフード -->
+  <!-- EN (DeepL) - fluffy hood -->
+  <UNAGIfazukin.label>fluffy hood</UNAGIfazukin.label>
+  <!-- JP - 寒さを防ぐためのモコモコつきフードです。 -->
+  <!-- EN (DeepL) - This is a hood with a fluffy lining to keep out the cold. -->
+  <UNAGIfazukin.description>A hood with a fluffy lining to keep out the cold.</UNAGIfazukin.description>
+  <!-- JP - サンタさん帽子 -->
+  <!-- EN (DeepL) - Santa hat -->
+  <UNAGIsantabo.label>santa hat</UNAGIsantabo.label>
+  <!-- JP - 寒さを防ぐためのサンタさん帽子です。 -->
+  <!-- EN (DeepL) - This is a Santa hat to keep out the cold. -->
+  <UNAGIsantabo.description>A Santa hat to keep out the cold.</UNAGIsantabo.description>
+</LanguageData>

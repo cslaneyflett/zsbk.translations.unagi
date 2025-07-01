@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN - DressTailoringBench -->
+  <UNA_DressTailoringBench.label>dress tailoring bench</UNA_DressTailoringBench.label>
+  <!-- EN - A specialized workbench for creating fashionable UNA dresses. -->
+  <UNA_DressTailoringBench.description>A specialized workbench for creating fashionable dresses.</UNA_DressTailoringBench.description>
+  <!-- EN - royal dress -->
+  <Apparel_UNARoyalDress.label>royal dress</Apparel_UNARoyalDress.label>
+  <!-- EN - An elegant and regal dress designed for nobility. It is adorned with gold embellishments and provides enhanced protection and social impact. -->
+  <Apparel_UNARoyalDress.description>An elegant and regal dress designed for nobility.\n\nIt is adorned with gold embellishments and provides enhanced protection and social impact.</Apparel_UNARoyalDress.description>
+  <!-- EN - underwear for dresses -->
+  <Apparel_UNA_Dress_sitagi.label>underwear for dresses</Apparel_UNA_Dress_sitagi.label>
+  <!-- note: not sure what is going on here, translation from jp language files is below -->
+  <!-- i am using a simplified version because the original seems incoherent -->
+  <!-- EN - This underwear does not echo the design of the dress. It has the same performance as a formal shirt. -->
+  <!-- JP - ドレスの為の下着。胸元が開いているので綺麗に着こなせます。フォーマルシャツと同じ性能を持っています。 -->
+  <!-- EN (DeepL) - Underwear for dresses. The open neckline allows for a beautiful fit. It has the same performance as a formal shirt. -->
+  <Apparel_UNA_Dress_sitagi.description>Underwear for dresses.\n\nIt has the same performance as a formal shirt.</Apparel_UNA_Dress_sitagi.description>
+  <!-- EN - dressR -->
+  <Apparel_UNA_dressR.label>button dress</Apparel_UNA_dressR.label>
+  <!-- EN - Slightly different dress with buttons. It has the same performance as a cape. -->
+  <Apparel_UNA_dressR.description>Slightly different dress with buttons.\n\nIt has the same performance as a cape.</Apparel_UNA_dressR.description>
+  <!-- EN - RibbonDress -->
+  <Apparel_UNA_RibbonDress.label>ribbon dress</Apparel_UNA_RibbonDress.label>
+  <!-- EN - Fashionable dress with ribbon. It has the same performance as a cape. -->
+  <Apparel_UNA_RibbonDress.description>Fashionable dress with ribbon.\n\nIt has the same performance as a cape.</Apparel_UNA_RibbonDress.description>
+  <!-- EN - noble undergarment -->
+  <UNA_Dress_sitagi.label>noble undergarment</UNA_Dress_sitagi.label>
+  <!-- EN - Elegant and comfortable underwear designed for nobility and royalty. Same performance as formal shirts. -->
+  <UNA_Dress_sitagi.description>Elegant and comfortable underwear designed for nobility and royalty.\n\nIt has the same performance as a formal shirt.</UNA_Dress_sitagi.description>
+  <!-- EN - royal robe -->
+  <UNA_RoyalRobe.label>royal robe</UNA_RoyalRobe.label>
+  <!-- EN - A long, flowing robe embroidered with complex decorative designs, fit for royalty. -->
+  <UNA_RoyalRobe.description>A long, flowing robe embroidered with complex decorative designs, fit for royalty.</UNA_RoyalRobe.description>
+  <!-- EN - GothicDress -->
+  <Apparel_UNA_gothicdress.label>gothic dress</Apparel_UNA_gothicdress.label>
+  <!-- EN - Heavy black dress.It has the same performance as a cape. -->
+  <Apparel_UNA_gothicdress.description>Heavy black dress.\n\nIt has the same performance as a cape.</Apparel_UNA_gothicdress.description>
+  <!-- EN - Style Shirt-Pants -->
+  <UNA_MstyleShirtpants.label>medieval-style shirt-pants</UNA_MstyleShirtpants.label>
+  <!-- EN - A combined shirt and pants, providing the functionality of both a collared shirt and pants. -->
+  <UNA_MstyleShirtpants.description>A combined shirt and pants.\n\nIt has the same performance as both a collared shirt and pants.</UNA_MstyleShirtpants.description>
+
+  <!-- EN - flower decoration hat -->
+  <UNA_Ohanabousi.label>flower-decorated hat</UNA_Ohanabousi.label>
+  <!-- EN - A hat for ladies decorated with flowers and feathers. -->
+  <UNA_Ohanabousi.description>A hat for ladies decorated with flowers and feathers.</UNA_Ohanabousi.description>
+  <!-- EN - wedding veil -->
+  <Apparel_UNA_weddingveil.label>wedding veil</Apparel_UNA_weddingveil.label>
+  <!-- EN - A delicate and elegant veil worn by brides. It covers the head and enhances social impact. -->
+  <Apparel_UNA_weddingveil.description>A delicate and elegant veil worn by brides.\n\nIt covers the head and enhances social impact.</Apparel_UNA_weddingveil.description>
+  <!-- EN - royal crown -->
+  <UNA_KingCrown.label>royal crown</UNA_KingCrown.label>
+  <!-- EN - Symbolizing royal authority, a crown is made by craftsmen especially for the nobility. It has about the same protection as a helmet and requires metal and cloth for its production. -->
+  <UNA_KingCrown.description>Symbolizing royal authority, a crown is made by craftsmen especially for the nobility.\n\nIt has about the same protection as a helmet and requires metal and cloth for its production.</UNA_KingCrown.description>
+  <!-- EN - thorn helmet -->
+  <Apparel_UNA_TogeHelm.label>thorn helmet</Apparel_UNA_TogeHelm.label>
+  <!-- EN - Equipped with the same performance as a helmet. Thorns. -->
+  <Apparel_UNA_TogeHelm.description>Thorns.\n\nIt has the same performance as a helmet.</Apparel_UNA_TogeHelm.description>
+</LanguageData>

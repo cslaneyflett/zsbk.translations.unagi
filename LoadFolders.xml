@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="unagi.a.d.coat">ModPatches/unagi.a.d.coat</li>
+    <li IfModActive="unagi.ap.dress">ModPatches/unagi.ap.dress</li>
+    <li IfModActive="unagi.huyuhuku.set">ModPatches/unagi.huyuhuku.set</li>
+  </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="unagi.a.d.coat">ModPatches/unagi.a.d.coat</li>
+    <li IfModActive="unagi.ap.dress">ModPatches/unagi.ap.dress</li>
+    <li IfModActive="unagi.huyuhuku.set">ModPatches/unagi.huyuhuku.set</li>
+  </v1.5>
+  <v1.6>
+    <li>/</li>
+    <li IfModActive="unagi.a.d.coat">ModPatches/unagi.a.d.coat</li>
+    <li IfModActive="unagi.ap.dress">ModPatches/unagi.ap.dress</li>
+    <li IfModActive="unagi.huyuhuku.set">ModPatches/unagi.huyuhuku.set</li>
+  </v1.6>
+</loadFolders>

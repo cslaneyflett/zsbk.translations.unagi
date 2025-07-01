@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- JP - ダスタードレス -->
+  <!-- EN (DeepL) - duster dress -->
+  <UNAGIDDress.label>duster dress</UNAGIDDress.label>
+  <!-- JP - ダスターコート同じ性能を持つ、ドレスのような服です。 -->
+  <!-- EN (DeepL) - Duster coat A dress-like garment with the same performance. -->
+  <UNAGIDDress.description>A dress-like garment.\n\nIt has the same performance as a duster.</UNAGIDDress.description>
+  <!-- JP - ダッフルコート -->
+  <!-- EN (DeepL) - duffle coat -->
+  <UNAGIDcoat.label>duffle coat</UNAGIDcoat.label>
+  <!-- JP - ダスターコート同じ性能を持つダッフルコートです。 -->
+  <!-- EN (DeepL) - Duster coat A duffle coat with the same performance. -->
+  <UNAGIDcoat.description>A duffle coat.\n\nIt has the same performance as a duster.</UNAGIDcoat.description>
+  <!-- JP - セーラーコート -->
+  <!-- EN (DeepL) - sailor coat -->
+  <UNAGIDsailor.label>sailor coat</UNAGIDsailor.label>
+  <!-- JP - ダスターコート同じ性能を持つ、セーラー襟の付いたコートです。 -->
+  <!-- EN (DeepL) - Duster coat A coat with the same features as the sailor coat, but with a sailor collar. -->
+  <UNAGIDsailor.description>A coat with a sailor collar.\n\nIt has the same performance as a duster.</UNAGIDsailor.description>
+  <!-- JP - リボンシャツ -->
+  <!-- EN (DeepL) - ribbon shirt -->
+  <UNAGIribbonshirt.label>ribbon shirt</UNAGIribbonshirt.label>
+  <!-- JP - リボンのついた襟付きシャツです。 -->
+  <!-- EN (DeepL) - This is a collared shirt with a ribbon. -->
+  <UNAGIribbonshirt.description>A collared shirt with a ribbon.</UNAGIribbonshirt.description>
+</LanguageData>
